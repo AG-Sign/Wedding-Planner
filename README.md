@@ -30,4 +30,5 @@
  ###### Reservations Page
  ![image](https://user-images.githubusercontent.com/58369917/159035035-1b2fe1b6-707a-4e5a-9677-5e38eea0f3cc.png)
  ###### Provider's interface
- ![image](https://user-images.githubusercontent.com/58369917/159035205-ceab1618-5e93-4ea2-a3f3-9292cad54827.png)
+ ![image](https://user-images.githubusercontent.com/58369917/159035388-f0502479-0121-468c-b1ad-d99971db0c49.png)
+
