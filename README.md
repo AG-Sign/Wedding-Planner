@@ -15,6 +15,8 @@
 
 # Some Implemented Features
 - Authentication Token and session expiry which logs out any user after a period of time .
+- Registration confirmation e-mail will be sent after signing up .
+- Reminder e-mail will be sent when the main reservation date is about to come .
 - High validations on sign in and sign up process .
 - Searching and filtering services according to price ranges and Provider's name .
 - Confirm reservation of services .
