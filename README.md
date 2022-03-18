@@ -9,4 +9,25 @@
 - In the frontend terminal, run **npm install** to get the needed node modules for the files then run **npm start**.
 - The website should open successfully.
 
-# Some Features
+# Some Implemented Features
+- Authentication Token and session expiry which logs out any user after a period of time .
+- High validations on sign in and sign up process .
+- Searching and filtering services according to price ranges and Provider's name .
+- Confirm reservation of services .
+- Providing Services by providers .
+- Reserving Services by customers .
+- Deleting Main reservation package and also deleting micro service .
+- Editing Timeslot of a specific service .
+
+
+# Screenshots
+ ###### Sign up
+ ![image](https://user-images.githubusercontent.com/58369917/159034345-25bc5c7e-981d-46bd-b155-ab2562befbac.png)
+ ###### Sign in
+ ![image](https://user-images.githubusercontent.com/58369917/159034797-489744f7-6594-4919-b90b-e673f73b7dfb.png) 
+ ###### Customer's interface
+ ![image](https://user-images.githubusercontent.com/58369917/159034696-450afa2b-f5e0-4e15-a7d7-c49926deaba4.png)
+ ###### Reservations Page
+ ![image](https://user-images.githubusercontent.com/58369917/159035035-1b2fe1b6-707a-4e5a-9677-5e38eea0f3cc.png)
+ ###### Provider's interface
+ ![image](https://user-images.githubusercontent.com/58369917/159035205-ceab1618-5e93-4ea2-a3f3-9292cad54827.png)
