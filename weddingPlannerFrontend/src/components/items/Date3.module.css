@@ -1,0 +1,19 @@
+.date {
+    display: flex;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    flex-direction: column;
+    width: fit-content;
+    height:fit-content;
+    border: 1px solid #40005d;
+    background-color: #40005d;
+    color: white;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .date__hour {
+    font-size: 1rem;
+    font-weight: strong;
+  }

@@ -1,0 +1,36 @@
+.item {
+    display: flex;
+    padding: 0.5rem;
+    margin: 1rem 0;
+    background-color: #4b4b4b;
+  }
+
+  .just{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .item__description {
+    gap: 1rem;
+    flex: 1;
+    align-items: flex-end;
+    flex-direction: row;
+    flex-flow: column-reverse;
+    justify-content: flex-start;
+  }
+  
+  .item__price {
+    display:table-cell;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    border: 1px solid white;
+    padding: 0.5rem;
+    border-radius: 12px;
+    background-color: #40005d;
+  }
+
+  .img{
+    border-radius: 10px;
+    float: right;
+  }
